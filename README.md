@@ -36,6 +36,10 @@ More info about dataset can be found here :
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Mlflow-3670A0?style=for-the-badge&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/DVC-orange?style=for-the-badge)
+
+
 
 [LinkedIn](www.linkedin.com/in/alok-kumar-11075b252) •
 [Gmail](kalok0575@gmail.com) •
