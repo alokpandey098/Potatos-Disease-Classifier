@@ -74,7 +74,7 @@ More info about dataset can be found here :
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 730335511510.dkr.ecr.ap-south-1.amazonaws.com/wine-check
+    - Save the URI: 730335511510.dkr.ecr.ap-south-1.amazonaws.com/potatoes
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
